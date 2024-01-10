@@ -219,7 +219,7 @@ void PembayaranBulanIni(){
 
 int main() {
 	srand(time(0)); //refresh random setiap kali program dijalankan
-	int pilihan = 2; //rand() % 2 + 1; //menyatakan nilai pilihan secara random
+	rand() % 2 + 1; //menyatakan nilai pilihan secara random
 
 	cout<<"-------------------------------------------------------------------------------------------------------------------------------------------------"<<endl;
 	cout<<"                              ------------------------ SISTEM PEMBAYARAN PAM ----------------------------------                               "<<endl;
