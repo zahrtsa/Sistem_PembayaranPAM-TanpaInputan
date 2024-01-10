@@ -1,0 +1,17 @@
+-------------------------------------------------------
+---------------TAGIHAN PEMBAYARAN AIR------------------
+-------------------------------------------------------
+Nama Pelanggan           : ZAHRA TSABITAH
+Alamat Pelanggan         : JL. PAM BARU RAYA NO.7A
+ID Pelanggan             : 45-23-2-101-45
+Jenis Golongan           : Rumah Tangga
+Tanggal                  : 2 Januari 2024
+Pemakaian Air (m3)       : 34m3
+Tagihan Air              : 7450
+Biaya Admin              : Rp3000
+Biaya Pajak              : Rp1195
+-------------------------------------------------------
+TOTAL TAGIHAN PEMAKAIAN AIR: Rp259995
+SISTEM PEMBAYARAN        : BRI
+CODE PEMBAYARAN          : 0097 8823 2791 1111 0273
+-------------------------------------------------------
